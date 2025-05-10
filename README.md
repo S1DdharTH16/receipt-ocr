@@ -1,18 +1,18 @@
-##1. Clone Repository
+1. Clone Repository
 git clone <your-repo-url>
 cd receipt_ocr_project
 
 
-##2. Create a Virtual Environment
+2. Create a Virtual Environment
 python -m venv venv
 source venv/bin/activate
 
 
-##3. Install Dependencies
+3. Install Dependencies
 pip install -r requirements.txt
 
 
-##4. Install Tesseract OCR
+4. Install Tesseract OCR
 Make sure Tesseract is installed and accessible via command line:
 Windows: https://github.com/tesseract-ocr/tesseract/wiki
 
